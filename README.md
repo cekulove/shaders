@@ -1,4 +1,10 @@
 # shaders
+sin  
+asin  
+cos  
+acos
+tan  
+atan  
 abs  
 dot  
 sqrt  
@@ -18,10 +24,6 @@ normalize
 exp2  
 pow  
 reflect  
-sin  
-cos  
-tan  
-atan  
 log  
 mod  
 all  
